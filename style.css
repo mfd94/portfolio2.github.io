@@ -190,23 +190,28 @@ section {
 
 .propos1{
   margin-bottom: 100px;
+  margin: auto;
 }
 .p1{
   font-size: 2em;
   text-decoration: underline;
   color: darkred;
+  margin: auto;
 }
 .p2{
   text-align: justify;
   font-size: 1.5em;
+  margin: auto;
 }
 
 .bts_sio{
   margin-top: 20px;
+  margin: auto;
 }
 
 .bts_sio3{
  font-size: 1.6em;
+ margin: auto;
 }
 
 .sisr{
