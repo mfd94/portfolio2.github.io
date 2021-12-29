@@ -103,9 +103,9 @@ h1{
 }
 
 .i1{
-  position: absolute;
-  left: 600px;
-  top: 100px;
+ position: absolute;
+ top: 140px;
+ margin-left: -200px;
 }
 
 a:hover{
