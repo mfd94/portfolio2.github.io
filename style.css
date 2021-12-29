@@ -10,10 +10,8 @@ html {
 }
 body{
   font-family: montserrat;
-  background-image: url(background.jpeg);
-  background-size: 100% 50%;
+  background-color: lightblue;
   scroll-behavior: smooth;
-  background-repeat: no-repeat;
   box-sizing: border-box;
   font-family: sans-serif;
 }

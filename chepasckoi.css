@@ -103,8 +103,8 @@ h1{
 }
 
 .i1{
-  position: static;
-  right: 100px;
+  position: absolute;
+  left: 1000px;
   top: 100px;
 }
 
