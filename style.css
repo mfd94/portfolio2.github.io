@@ -10,13 +10,13 @@ html {
 }
 body{
   font-family: montserrat;
-  background-color: #222;
+  background-color: lightblue;
   scroll-behavior: smooth;
   box-sizing: border-box;
   font-family: sans-serif;
 }
 nav{
-  background: black;
+  background: steelblue;
   height: 80px;
   width: 100%;
 }
@@ -44,7 +44,7 @@ nav ul li a{
   text-transform: uppercase;
 }
 a.active,a:hover{
-  background: #222;
+  background: lightblue;
 }
 .checkbtn{
   font-size: 30px;
@@ -75,7 +75,7 @@ a.active,a:hover{
     position: fixed;
     width: 100%;
     height: 100vh;
-    background: #222;
+    background: steelblue;
     top: 80px;
     left: -100%;
     text-align: center;
@@ -91,7 +91,7 @@ a.active,a:hover{
   }
   a:hover,a.active{
     background: none;
-    color: white;
+    color: lightblue;
   }
   #check:checked ~ ul{
     left: 0;
@@ -108,7 +108,7 @@ a.active,a:hover{
 svg text {
   font-family: Lora;
   letter-spacing: 10px;
-  stroke: whitesmoke;
+  stroke: royalblue;
   font-size: 150px;
   font-weight: 700;
   stroke-width: 6;
@@ -193,7 +193,7 @@ section {
   text-align: justify;
   font-size: 1.5em;
   margin: auto;
-  color: white;
+  color: black;
 }
 
 .bts_sio{
@@ -204,7 +204,7 @@ section {
 .bts_sio3{
  font-size: 1.6em;
  margin: auto;
- color: white ;
+ color: black ;
 }
 
 .sisr{

@@ -77,38 +77,38 @@ nav li:hover .submenu
 }
 .menu-html:hover
 {
-	border-top: 5px solid #e44d26;
-	background-color: rgba(228, 77, 38, 0.15);
+	border-top: 5px solid lightblue;
+	background-color: blue;
 }
 .menu-iframe:hover
 {
-	border-top: 5px solid #0070bb;
-	background-color: rgba(000, 112, 192, 0.15);
+	border-top: 5px solid lightblue;
+	background-color: blue;
 }
 .menu-css:hover
 {
-	border-top: 5px solid #f1dc4f;
-	background-color: rgba(241, 211, 79, 0.15);
+	border-top: 5px solid lightblue;
+	background-color: blue;
 }
 .menu-menu:hover
 {
-	border-top: 5px solid rgb(50, 250, 160);
-	background-color: rgba(50, 250, 160,0.15);
+	border-top: 5px solid lightblue;
+	background-color: blue;
 }
 .menu-cv:hover
 {
-	border-top: 5px solid rgb(130, 190, 75);
-	background-color: rgba(130, 190, 75,0.15);
+	border-top: 5px solid lightblue;
+	background-color: blue;
 }
 .menu-sq:hover
 {
-	border-top: 5px solid rgb(190, 130, 75);
-	background-color: rgba(190, 130, 75,0.15);
+	border-top: 5px solid lightblue;
+	background-color: blue;
 }
 .menu-ppe:hover
 {
-	border-top: 5px solid rgb(190, 60, 190);
-	background-color: rgba(190, 60, 190,0.15);
+	border-top: 5px solid lightblue;
+	background-color: blue;
 }
 nav > ul > li:hover a
 {
@@ -116,44 +116,44 @@ nav > ul > li:hover a
 }
 .menu-html .submenu
 {
-	background-color: #e66428;
+	background-color: lightblue;
 }
 .menu-iframe .submenu
 {
-	background-color: #00a0f0;
+	background-color: lightblue;
 }
 .menu-css .submenu
 {
-	background-color: #fbd863;
+	background-color: lightblue;
 }
 .menu-menu .submenu
 {
-	background-color: rgb(50, 250, 160);
+	background-color: lightblue;
 }
 .menu-cv .submenu
 {
-	background-color: rgb(160, 220, 105);
+	background-color:  lightblue;
 }
 .menu-sq .submenu
 {
-	background-color: rgb(190, 130 , 75);
+	background-color:  lightblue;
 }
 .menu-ppe .submenu
 {
-	background-color: rgb(190, 60, 190);
+	background-color: lightblue;
 }
 .menu-javascript:hover
 {
-	border-top: 5px solid #339664;
-	background-color: rgba(31, 121, 109, 0.15);
+	border-top: 5px solid lightblue;
+	background-color: blue;
 }
 .menu-javascript .submenu
 {
-	background-color: rgb(51, 150, 100);
+	background-color: lightblue;
 }
 .menu-javascript .submenu li:hover
 {
-	background-color: rgb(51, 150, 100);
+	background-color: royalblue;
 }
 
 .submenu li:hover
@@ -163,31 +163,31 @@ nav > ul > li:hover a
 }
 .menu-html .submenu li:hover
 {
-	background-color: rgb(210, 77, 60);
+	background-color: royalblue;
 }
 .menu-iframe .submenu li:hover
 {
-	background-color: rgb(000, 115, 200);
+	background-color: royalblue;
 }
 .menu-css .submenu li:hover
 {
-	background-color: rgb(200, 165, 75);
+	background-color: royalblue;
 }
 .menu-menu .submenu li:hover
 {
-	background-color: rgb(10, 220, 120);
+	background-color: royalblue;
 }
 .menu-cv .submenu li:hover
 {
-	background-color: rgb(130, 190, 75);
+	background-color: royalblue;
 }
 .menu-sq .submenu li:hover
 {
-	background-color: rgb(190, 130, 75);
+	background-color: royalblue;
 }
 .menu-ppe .submenu li:hover
 {
-	background-color: rgb(190, 60, 190);
+	background-color: royalblue;
 }
 nav input[type=checkbox]:checked ~ ul
 {
@@ -200,7 +200,7 @@ nav input[type=checkbox]:checked ~ ul
 	{
 		display: block;
 		color: #fff;
-		background-color: rgba(29, 197, 151, 0.97);
+		background-color: grey;
 		text-align: center;
 		padding: 12px 0;
 	}

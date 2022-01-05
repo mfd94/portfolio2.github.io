@@ -64,12 +64,12 @@ h1{
 
 @keyframes htmlSlide{
 	0%{width: 0%;}
-	100%{width: 65%;}
+	100%{width: 70%;}
 }
 
 @keyframes cssSlide{
 	0%{width: 0%;}
-	100%{width: 60%;}
+	100%{width: 50%;}
 }
 
 @keyframes responsiveSlide{
@@ -79,6 +79,6 @@ h1{
 
 @keyframes jsSlide{
 	0%{width: 0%;}
-	100%{width: 50%;}
+	100%{width: 40%;}
 }
 
